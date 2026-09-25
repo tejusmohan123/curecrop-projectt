@@ -1,0 +1,8 @@
+{
+  "name": "CureCrop- Crop Disease Finder & Interactive Symptom Diagnostic System",
+  "description": "AI-powered crop pathology platform with leaf image diagnosis, interactive multi-symptom correlation matrix, pathogen identification, and precision agronomy treatment plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
